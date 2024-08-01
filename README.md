@@ -124,3 +124,15 @@ streamlit run app.py
 # Output
 
 ![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Home%20Page.png?raw=true)
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/About%20Page.png?raw=true)
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Login%20Page.png?raw=true)
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Dataset%20Page.png?raw=true)
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Prediction%20Page.png?raw=true)
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Contact%20Page.png?raw=true)
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Screenshot%202024-05-29%20224900.png?raw=true)
