@@ -118,3 +118,9 @@ Download [this repo](https://github.com/dataprofessor/multi-page-app/archive/mai
 ```
 streamlit run app.py
 ```
+
+* * * * *
+
+# Output
+
+![alt text](https://github.com/gaurav-borse/anamoly-detection/blob/master/apps/demo/Home%20Page.png?raw=true)
