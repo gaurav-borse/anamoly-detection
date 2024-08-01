@@ -65,19 +65,23 @@ If you have any questions or suggestions, please contact us at [<gborse108@gmail
 
 For more details, visit our [GitHub repository](https://github.com/gaurav-borse/anamoly-detection).
 
+* * * * *
 
-# multi-page-app
+# Steps to run
 
-# Watch the tutorial video
+Watch the tutorial video
+-----------------------------------------------------------
 [How to Make a Multi-Page Web App | Streamlit #16](https://youtu.be/nSw96qUbK9o)
 
 <a href="https://youtu.be/nSw96qUbK9o"><img src="http://img.youtube.com/vi/nSw96qUbK9o/0.jpg" alt="How to Make a Multi-Page Web App | Streamlit #16" title="How to Make a Multi-Page Web App | Streamlit #16" width="400" /></a>
 
-# Demo
+# Demo Video
 
 Launch the web app:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/multi-page-app/main/app.py)
+[![See Now](https://github.com/gaurav-borse/anamoly-detection/tree/master/apps/demo)
+
+# Commands
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
